@@ -1,1 +1,4 @@
-test
+INTRO
+
+Super Scheduler is a Java based clustered Scheduler and Queue Processor.
+It uses redis as storage engine
